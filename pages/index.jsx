@@ -85,7 +85,7 @@ const Index = () => {
                 <div className="bts">
                   <a
                     target="_blank"
-                    href="https://drive.google.com/file/d/1TCCOH6DeulY1nV7z-jYKp1Kx7MkW7zAd/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1AlN-TZhO4V2JiwxJAkFB7oUBgIdJVgmC/view?usp=drivesdk"
                     className="btn"
                   >
                     <span>Download CV</span>
@@ -102,7 +102,7 @@ const Index = () => {
               >
                 <img 
                   decoding="async"
-                  src="assets/images/kavi2.jpg"
+                  src="assets/images/profilek.jpeg"
                   alt="<b>Zoé</b> Miller"
                 />
                 <span className="circle circle-1" />
@@ -432,7 +432,7 @@ const Index = () => {
                       <span> Email </span>
                     </div>
                     <div className="lui-text">
-                      <span> sahanpradeeptha@gmail.com </span>
+                      <span> kavishkiperera@gmail.com </span>
                     </div>
                   </div>
                   <div
